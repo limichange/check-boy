@@ -1,0 +1,20 @@
+{
+  "name": "check-boy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "chalk": "^4.0.0",
+    "https-proxy-agent": "^5.0.0",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  }
+}
